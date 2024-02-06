@@ -7,6 +7,8 @@ import java.io.FileNotFoundException;
 import java.io.*;
 import java.io.IOException;
 
+// This is to simulate the game of Life
+// Please use wisely.
 public class GameOfLife {
 
 	public static void main (String[] args) throws FileNotFoundException, IOException {
